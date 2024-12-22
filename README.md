@@ -17,7 +17,7 @@ A script to renders title text in title case of selected Zotero items, capitaliz
 4. Run the Script
 
 ## Acknowledgements
-The Title Case conversion logic is based on the excellent work by @rvagg, who developed the titlecase JavaScript library. You can check out the original repository for further information and improvements.
+The Title Case conversion logic is based on the excellent work by [@rvagg](https://github.com/rvagg), who developed the [titlecase](https://github.com/rvagg/titlecase).
 
 ## License
 It is available under the MIT license.
